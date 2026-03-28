@@ -62,7 +62,3 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 - [MySQL](https://www.mysql.com/downloads/)
 - [Git](https://git-scm.com)
 - [Postman](https://www.postman.com/) (opcional, para testar)
-
-```bash
-git clone https://github.com/seu-usuario/bank-api.git
-cd bank-api
